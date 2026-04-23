@@ -1,6 +1,12 @@
 # 🐟 鱼类检测系统 (Fish Detection System)
 
 基于 **PyQt5** 和 **Ultralytics YOLO** 开发的桌面端鱼类目标检测系统,支持图片、批量文件夹、视频文件和实时摄像头四种检测模式,适用于水产养殖、生态监测、科研实验等场景。
+<img width="800" height="512" alt="主界面" src="https://github.com/user-attachments/assets/0f00ebdc-b65a-4031-8c4c-9e35e2f5e853" />
+<img width="800" height="512" alt="类别筛选" src="https://github.com/user-attachments/assets/1b7eb43e-0911-4ff6-90e7-4672c2e997ba" />
+<img width="800" height="512" alt="图片检测" src="https://github.com/user-attachments/assets/786ade43-021e-4ebc-976e-48b2657c7bce" />
+<img width="800" height="512" alt="批量图片检测" src="https://github.com/user-attachments/assets/ba006c61-16c4-403f-a885-65ddaa44e8e1" />
+<img width="800" height="512" alt="筛选类别检测" src="https://github.com/user-attachments/assets/49949635-3f35-4242-93db-6f01adac4afe" />
+
 
 ---
 
@@ -283,6 +289,8 @@ DEFAULT_YAML_PATH = r"你的 data.yaml 路径"
 本项目基于 MIT 协议,可自由修改和使用。YOLO 模型遵循其各自 License(YOLOv8 为 AGPL-3.0)。
 
 ---
+获取源码请加微信（备注来意，有偿服务）
+<img width="1268" height="1729" alt="微信" src="https://github.com/user-attachments/assets/23659b0f-9436-4131-924a-43a35757bc2c" />
 
 ## 🙏 致谢
 
